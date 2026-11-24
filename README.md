@@ -2,6 +2,7 @@
 
 <img align="left" src="./assets/gabriel-ascii-fixed.svg" alt="Gabriel Coronel — animated ASCII portrait" width="320" />
 
+<p><img src="./assets/welcome.svg" alt="Hey! welcome to my GitHub" width="400" /></p>
 <h3><strong>Gabriel Coronel</strong></h3>
 <h3>AI Solutions Engineer &amp; Automation Lead</h3>
 <p><strong>Artificial Intelligence · Automation · Software Engineering</strong></p>
