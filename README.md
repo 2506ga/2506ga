@@ -2,7 +2,7 @@
 <table align="center">
 <tr>
 <td width="260" align="center" valign="middle">
-<img src="./assets/gabriel-ascii.gif" alt="Gabriel Coronel — animated ASCII portrait" width="260" />
+<img src="./assets/gabriel-ascii.svg" alt="Gabriel Coronel — animated ASCII portrait" width="260" />
 </td>
 <td width="480" align="center" valign="middle">
 <h1>Gabriel Coronel</h1>
