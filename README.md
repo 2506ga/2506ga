@@ -2,7 +2,7 @@
 
 <img align="left" src="./assets/gabriel-ascii.svg" alt="Gabriel Coronel — animated ASCII portrait" width="250" />
 
-<h1>Gabriel Coronel</h1>
+<h3><strong>Gabriel Coronel</strong></h3>
 <h3>AI Solutions Engineer &amp; Automation Lead</h3>
 <p><strong>Artificial Intelligence · Automation · Software Engineering</strong></p>
 <p><a href="https://gabrielcoronel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/gycoronel"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a></p>
