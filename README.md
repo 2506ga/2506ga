@@ -4,10 +4,10 @@
 
 ### AI Solutions Engineer & Automation Lead
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58D6E7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Automation;Software+Engineering+%26+Cloud;Exploring+Robotics+%26+Embedded+Systems)](https://gabrielcoronel.netlify.app)
+[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Automation;Software+Engineering+%26+Cloud;Exploring+Robotics+%26+Embedded+Systems)](https://gabrielcoronel.netlify.app)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-087e92?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrielcoronel.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gycoronel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrielcoronel.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gycoronel)
 
 **Building smarter operations with AI**
 
@@ -26,7 +26,7 @@ I am an AI, automation, and business operations professional based in Buenos Air
 
 ## Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-087e92?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge)
 
 Currently expanding my C# and .NET development skills.
 
@@ -68,5 +68,5 @@ Practical automations that connect systems, reduce repetitive work, improve repo
 ## GitHub activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2506ga&bg_color=0d1117&color=58d6e7&line=229bb1&point=ffffff&hide_border=true" alt="GitHub contribution activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2506ga&bg_color=0d1117&color=C084FC&line=8B5CF6&point=58D6E7&hide_border=true" alt="GitHub contribution activity" width="100%" />
 </div>
