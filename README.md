@@ -1,17 +1,17 @@
-<div align="center">
-
-# Gabriel Coronel
-
-### AI Solutions Engineer & Automation Lead
-
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Automation;Software+Engineering+%26+Cloud;Exploring+Robotics+%26+Embedded+Systems)](https://gabrielcoronel.netlify.app)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrielcoronel.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gycoronel)
-
-**Building smarter operations with AI**
-
-</div>
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+<img src="./assets/gabriel-ascii.gif" alt="Gabriel Coronel — animated ASCII portrait" width="260" />
+</td>
+<td width="66%" align="center" valign="middle">
+<h1>Gabriel Coronel</h1>
+<h3>AI Solutions Engineer &amp; Automation Lead</h3>
+<p><strong>Artificial Intelligence · Automation · Software Engineering</strong></p>
+<p><a href="https://gabrielcoronel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/gycoronel"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a></p>
+<p><strong>Building smarter operations with AI</strong></p>
+</td>
+</tr>
+</table>
 
 ---
 
