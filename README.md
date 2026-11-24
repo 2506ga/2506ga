@@ -1,7 +1,23 @@
-# Hi, I'm Gabriel Coronel 👋
+<div align="center">
 
-### AI Solutions Engineer & Automation Lead  
+<img src="./assets/gabriel-ascii.svg" alt="Animated ASCII portrait of Gabriel Coronel" width="340" />
+
+# Gabriel Coronel
+
+### AI Solutions Engineer & Automation Lead
+
+[![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58D6E7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Automation;Software+Engineering+%26+Cloud;Exploring+Robotics+%26+Embedded+Systems)](https://gabrielcoronel.netlify.app)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-087e92?style=for-the-badge&logo=netlify&logoColor=white)](https://gabrielcoronel.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gycoronel)
+
 **Building smarter operations with AI**
+
+</div>
+
+---
+
+## About me
 
 I am an AI, automation, and business operations professional based in Buenos Aires, Argentina. I combine technical execution with a business-first perspective to turn operational challenges into practical, measurable solutions.
 
@@ -37,3 +53,15 @@ Practical automations that connect systems, reduce repetitive work, improve repo
 - 🌐 Portfolio: [gabrielcoronel.netlify.app](https://gabrielcoronel.netlify.app)
 - 💼 LinkedIn: [linkedin.com/in/gycoronel](https://www.linkedin.com/in/gycoronel)
 - 📍 Buenos Aires, Argentina
+
+
+## Featured repositories
+
+- [Auralis](https://github.com/2506ga/auralis)
+- [Telegram Gemini Business Automation](https://github.com/2506ga/telegram-gemini-business-automation)
+
+## GitHub activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=2506ga&bg_color=0d1117&color=58d6e7&line=229bb1&point=ffffff&hide_border=true" alt="GitHub contribution activity" width="100%" />
+</div>
