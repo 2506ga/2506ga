@@ -1,9 +1,10 @@
-<table>
+<div align="center">
+<table align="center">
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="260" align="center" valign="middle">
 <img src="./assets/gabriel-ascii.gif" alt="Gabriel Coronel — animated ASCII portrait" width="260" />
 </td>
-<td width="66%" align="center" valign="middle">
+<td width="480" align="center" valign="middle">
 <h1>Gabriel Coronel</h1>
 <h3>AI Solutions Engineer &amp; Automation Lead</h3>
 <p><strong>Artificial Intelligence · Automation · Software Engineering</strong></p>
@@ -12,6 +13,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
