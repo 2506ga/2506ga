@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="left" src="./assets/gabriel-ascii.svg" alt="Gabriel Coronel — animated ASCII portrait" width="250" />
+<img align="left" src="./assets/gabriel-ascii.svg" alt="Gabriel Coronel — animated ASCII portrait" width="320" />
 
 <h3><strong>Gabriel Coronel</strong></h3>
 <h3>AI Solutions Engineer &amp; Automation Lead</h3>
