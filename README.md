@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/gabriel-ascii.svg" alt="Animated ASCII portrait of Gabriel Coronel" width="340" />
-
 # Gabriel Coronel
 
 ### AI Solutions Engineer & Automation Lead
@@ -26,6 +24,12 @@ I am an AI, automation, and business operations professional based in Buenos Air
 - 📊 Improving operational visibility through dashboards, KPIs, SLA analysis, and data-driven decision-making
 - 🛠️ Translating business requirements into reliable Python applications, APIs, and scalable workflows
 
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-087e92?style=for-the-badge)
+
+Currently expanding my C# and .NET development skills.
+
 ## Core Expertise
 
 `Generative AI` · `AI Automation` · `Python` · `Flask` · `RAG` · `LLMs` · `Embeddings` · `REST APIs` · `SQL` · `Power BI` · `Dashboards` · `Process Improvement` · `Business Operations`
@@ -43,6 +47,7 @@ Practical automations that connect systems, reduce repetitive work, improve repo
 
 ## Currently Exploring
 
+- C# and .NET development
 - Agentic AI workflows and AI-assisted development
 - Reliable RAG architectures and local AI models
 - AI product prototyping for business operations
